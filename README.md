@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aparna_Choundhe</h1>
 <img align="right" alt="Coding" width="400"src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e47du8vyvc9jzct5j7ssv6amw4xzyc1lsimj801j8fw&rid=200w.webp&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparnachoundhe&label=Profile%20views&color=0e75b6&style=flat" alt="aparnachoundhe" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aparnachoundhe" alt="aparnachoundhe" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aparna_choundhe" target="blank"><img src="https://img.shields.io/twitter/follow/aparna_choundhe?logo=twitter&style=for-the-badge" alt="aparna_choundhe" /></a> </p>
 
@@ -31,3 +29,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparnachoundhe&show_icons=true&locale=en&layout=compact" alt="aparnachoundhe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aparnachoundhe&" alt="aparnachoundhe" /></p>
+
